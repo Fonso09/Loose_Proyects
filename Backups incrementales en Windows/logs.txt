@@ -1,0 +1,90 @@
+Backup incremental hecha el dia dom. 29/12/2024 a las 15:31:40,85  
+Backup incremental hecha el dia dom. 29/12/2024 a las 15:31:53,45  
+Backup incremental hecha el dia dom. 29/12/2024 a las 15:32:06,57  
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Iniciado : domingo, 29 de diciembre de 2024 3:44:23 p.ÿm.
+   Origen : C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\origen\
+     Destino : C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\destino\
+
+    Archivos: *.*
+	    
+  Opciones: *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\origen\
+
+------------------------------------------------------------------------------
+
+               Total   Copiado   OmitidoNo coincidencia     ERROR    Extras
+Director.:         1         0         1         0         0         0
+ Archivos:         1         0         1         0         0         0
+    Bytes:        90         0        90         0         0         0
+   Tiempo:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado: domingo, 29 de diciembre de 2024 3:44:23 p.ÿm.
+
+Backup incremental hecha el dia dom. 29/12/2024 a las 15:44:23,13  
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Iniciado : domingo, 29 de diciembre de 2024 3:44:28 p.ÿm.
+   Origen : C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\origen\
+     Destino : C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\destino\
+
+    Archivos: *.*
+	    
+  Opciones: *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   1	C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\origen\
+
+------------------------------------------------------------------------------
+
+               Total   Copiado   OmitidoNo coincidencia     ERROR    Extras
+Director.:         1         0         1         0         0         0
+ Archivos:         1         0         1         0         0         0
+    Bytes:        90         0        90         0         0         0
+   Tiempo:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado: domingo, 29 de diciembre de 2024 3:44:28 p.ÿm.
+
+Backup incremental hecha el dia dom. 29/12/2024 a las 15:44:28,98  
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Iniciado : domingo, 29 de diciembre de 2024 3:45:51 p.ÿm.
+   Origen : C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\origen\
+     Destino : C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\destino\
+
+    Archivos: *.*
+	    
+  Opciones: *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   2	C:\Users\Usuario\Desktop\Proyectos y Codigos Random\Loose Proyects\Backups incrementales en Windows\origen\
+	  M s reciente		     109	prueba1.txt100%  
+	    Nuevo arch		      48	Prueba2.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiado   OmitidoNo coincidencia     ERROR    Extras
+Director.:         1         0         1         0         0         0
+ Archivos:         2         2         0         0         0         0
+    Bytes:       157       157         0         0         0         0
+   Tiempo:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+Velocidad:             157.000 Bytes/s
+Velocidad:               8,984 Megabytes/min
+   Finalizado: domingo, 29 de diciembre de 2024 3:45:51 p.ÿm.
+
+Backup incremental hecha el dia dom. 29/12/2024 a las 15:45:51,28  
